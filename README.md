@@ -38,4 +38,47 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishanthdevopsmaestro&show_icons=true&locale=en" alt="nishanthdevopsmaestro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthdevopsmaestro&" alt="nishanthdevopsmaestro" /></p>
+
+Name: Nishanth PR
+located_in: Banglore, india
+from: Banglore (india)
+job: Senior cloud automation engineer
+education: ["Master's in DEVOPS", "Master's in  MCA", "Bachelor's in BSC"]
+company: Paypal
+
+```
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                275 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+🌆 Daytime                2309 commits        █████████░░░░░░░░░░░░░░░░   35.00 % 
+🌃 Evening                3011 commits        ███████████░░░░░░░░░░░░░░   45.64 % 
+🌙 Night                  1003 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/india
+
+💬 Programming Languages: 
+C++                      3 hrs 6 mins        ████████████░░░░░░░░░░░░░   48.93 % 
+YAML                     1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+Bash                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+CMake                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Assembly                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+
+🐱‍💻 Projects: 
+swarm_mission            2 hrs 54 mins       ███████████░░░░░░░░░░░░░░   45.86 % 
+swarm_docker             2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   36.11 % 
+swarm_ros2_utils         28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+arrc-library             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+behaviour-tree           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+```
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
                                                         Developed By ❤️ Nishanth 🇮🇳
