@@ -1,4 +1,4 @@
-<h1 align="center">Hi Buddy 👋, I'm Nishanth Nishanth_Mastermind_AI_Tech</h1>
+<h1 align="center">Hi Buddy 👋, I'm Nishanth_Mastermind_AI_Tech</h1>
 <h3 align="center">Connecting people, processes, and products for faster, reliable releases | 🎯 On a mission for DevOps excellence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanthdevopsmaestro&label=Profile%20views&color=0e75b6&style=flat" alt="nishanthdevopsmaestro" /> </p>
