@@ -1,4 +1,4 @@
-<h1 align="center">Hi Buddy 👋, I'm Nishanth DevOpsMaestro</h1>
+<h1 align="center">Hi Buddy 👋, I'm Nishanth Nishanth_Mastermind_AI_Tech</h1>
 <h3 align="center">Connecting people, processes, and products for faster, reliable releases | 🎯 On a mission for DevOps excellence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanthdevopsmaestro&label=Profile%20views&color=0e75b6&style=flat" alt="nishanthdevopsmaestro" /> </p>
@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@nishanthdancer42](https://medium.com/@nishanthdancer42)
 
-- 💬 Ask me about **Sr.Devops Automation Engineer III @ PayPal India Pvt. Ltd. | Expertise in AWS, Kubernetes, and Cloud infrastructure automation expert**
+- 💬 Ask me about **Sr.Software Engineer II @ FIS Global Pvt. Ltd. | Expertise in AWS, Kubernetes, and Cloud infrastructure automation expert**
 
 - 📫 How to reach me **nishanthdancer42@gmail.com**
 
